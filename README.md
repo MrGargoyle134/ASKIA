@@ -4,6 +4,7 @@ All the code is created bi MrGargoyle, but followed the javidx9's Console FPS in
 His channel: https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/
 
 HOW TO PLAY?
+First go in the console's properties ans change the window's height to 40.
 1)
 In the selection menu, type 1 to play with the basic map, type 2 to load your own map, type 3 to go in the options and type 4 to exit the game.
 
