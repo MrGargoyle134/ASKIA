@@ -9,6 +9,7 @@ First go in the console's properties ans change the window's height to 40.
 In the selection menu, type 1 to play with the basic map, type 2 to load your own map, type 3 to go in the options and type 4 to exit the game.
 
 2)
+The main position is X:8, Y:8 (you can change it in the code if you want).
 Press:
 RIGHT - to turn right.
 LEFT  - to turn left.
