@@ -1,4 +1,4 @@
-                                       ASKIA, the console FPS.
+                                       ASKIA v1.0, the console FPS.
 
 All the code is created bi MrGargoyle, but followed the javidx9's Console FPS in C++ tutorial.
 His channel: https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/
