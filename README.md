@@ -1,4 +1,4 @@
-                                       ASKIA v1.0, the console FPS.
+                                       ASKIA v1.5, the console FPS.
 
 All the code is created by MrGargoyle, but followed the javidx9's Console FPS in C++ tutorial.
 His channel: https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/
@@ -9,7 +9,6 @@ First go in the console's properties ans change the window's height to 40.
 In the selection menu, type 1 to play with the basic map, type 2 to load your own map, type 3 to go in the options and type 4 to exit the game.
 
 2)
-The main position is X:8, Y:8 (you can change it in the code if you want).
 Press:
 RIGHT - to turn right.
 LEFT  - to turn left.
@@ -21,6 +20,7 @@ At the top you can see your position, the FPS and the map.
 HOW CAN I LOAD A MAP?
 First type 2.
 Next put the filename (the extension can be any, but but here .map is used), the file's width and the file's height.
+Next enter the X player position and the Y player position.
 Now you can play in your map! :)
 
 YOU HAVE A REQUEST OR A BUG REPORT?
